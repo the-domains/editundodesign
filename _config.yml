@@ -1,7 +1,7 @@
 name: editundodesign
 favicon: null
-layout_spectrum: 0.5192005468998104
-typography_spectrum: 0.5243759902659804
+layout_spectrum: 0.99915
+typography_spectrum: 1
 title: Edit Undo Design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9264642528723925
-  lightness: 0.21523904893547297
-  saturation: 0.06876895274035633
-  rhythmicContrast: 0.44030178617686033
+    - '#ffffff'
+    - '#050505'
+    - '#2f2f2f'
+    - '#717171'
+    - '#b3b3b3'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
